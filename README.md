@@ -1,3 +1,3 @@
 # Algorithms with max speed
-Algorithms implemented by the direct descendant of Al-Kharezmi, father of Algebra
+<b>Algorithms</b> implemented by the direct descendant of Al-Kharezmi the father of Algebra.
 
