@@ -9,7 +9,7 @@ your planned amount of money.
 2. How much is your yearly interest on the saved money
 3. How much money you planned to earn
 
-** To _compile_ the code **
+**To _compile_ the code**
 you need `g++` to copile this code or any other c++ compatible compiler.
 
 ```

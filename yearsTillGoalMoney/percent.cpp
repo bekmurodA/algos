@@ -19,6 +19,6 @@ int main(){
 		amount = amount*Percent+ salary;
 		std::cout<<"AMOUNT IN YEAR" <<years<<": "<<amount<<"\n";
 	}
-	std::cout<<"it took "<<years<<"\n";
+	std::cout<<"it took "<<years<<" years\n";
 }
 
